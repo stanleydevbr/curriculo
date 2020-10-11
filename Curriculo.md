@@ -1,2 +1,5 @@
 #Stanley Dias Paulo
-##Analista de sistemas de informação
+Analista de sistemas de informação
+
+##Perfil
+Proativo
