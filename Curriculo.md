@@ -17,3 +17,5 @@ Proativo
 #Certificações
 
 #Cursos
+
+#Especializações
