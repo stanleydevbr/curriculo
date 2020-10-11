@@ -7,10 +7,18 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 Proativo
 
 # Habilidades & Competências
-Análise, desenvolvimento e manutenção de software, modelagem e manutenção de banco de dados, planejamento e acompanhamento de atividades de equipes de desenvolvimento. 
-Conhecimentos em desenvolvimento de aplicações ERP, interfaces responsivas e SPA, API’s REST, experiencia em desenvolvimento com C#, ASP.NET MVC, ASP.NET Core, VB.NET, VB6, DELPHI, Java Script, AJAX, Angular7+, HTML5, CSS, Sass e Compass, LESS. 
-Conhecimentos em arquitetura de software, OOP, SOLID, Clean Code, Design Patterns, DDD, CQRS, Anti-Padrões, TDD, BDD, MVC, ORM EntityFramework.
-Controle dos artefatos de software com TFS, GIT.
+* Desenvolvedor com vasta experiência em práticas de programação, analise e interpretação de requisitos de software e modelagem e manutenção de banco de dados;
+* Experiência em desenvolvimento e manuteções de aplicações ERP;
+* Conhecimentos em arquitetura de software
+    * OOP
+    * SOLID
+    * Clean Code
+    * Design Patterns
+    * DDD
+    * CQRS
+    * TDD
+    * BDD
+    * MVC
 
 # Experiência
 ## GLOBALTEC SA
@@ -22,8 +30,8 @@ Nesta empresa tive diversas oportunidades que desafiaram minhas habilidades de d
 Nesta empresa tive minha primeira oportunidade como desenvolvedor de software onde tive a oportunidade de trabalhar as linguagens de desenvolvimento DELPHI e Oracle PL/SQL
 
 # Educação
-## FACULDADE SUL AMERICA - SISTEMAS DE INFORMAÇÃO
-### CONCLUSÃO 02/2012
+## SISTEMAS DE INFORMAÇÃO
+### FACULDADE SUL AMERICA - CONCLUSÃO 02/2012
 No projeto de conclusão de curso desenvolvemos um sistema de controle de acesso de pessoas com autenticação biométrica, onde utilizamos a linguagem de desenvolvimento C# e banco de dados SQL Server.
 
 # Certificações
