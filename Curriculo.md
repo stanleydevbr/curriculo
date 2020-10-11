@@ -9,13 +9,13 @@ Proativo
 # Habilidades & Competências
 * Desenvolvedor com vasta experiência em práticas de programação, analise e interpretação de requisitos de software e modelagem e manutenção de banco de dados;
 * Experiência em desenvolvimento e manuteções de aplicações ERP;
-* Conhecimentos em arquitetura de software
-    * OOP
-    * SOLID
-    * Clean Code
-    * Design Patterns
-    * DDD
-    * CQRS
+* Conhecimentos em arquitetura de software:
+    * `OOP`
+    * `SOLID`
+    * `Clean Code`
+    * `Design Patterns`
+    * `DDD`
+    * `CQRS`
     * TDD
     * BDD
     * MVC
