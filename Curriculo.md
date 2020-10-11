@@ -1,8 +1,6 @@
 # Dados Pessoais
-## Stanley Dias Paulo
-Analista de sistemas de informação
-
-# Objetivo
+## Stanley Dias Paulo- sistemas de informação
+Analista  Objetivo
 Promover o crescimento de minha carreira profissional, apreender o mais rápido possível todas as atribuições do cargo em questão e assim poder mostrar resultados.
 
 # Perfil
@@ -24,7 +22,8 @@ Nesta empresa tive diversas oportunidades que desafiaram minhas habilidades de d
 Nesta empresa tive minha primeira oportunidade como desenvolvedor de software onde tive a oportunidade de trabalhar as linguagens de desenvolvimento DELPHI e Oracle PL/SQL
 
 # Educação
-## FACULDADE SUL AMERICA – GOIÂNIA – SISTEMAS DE INFORMAÇÃO - CONCLUSÃO 02/2012
+## FACULDADE SUL AMERICA - SISTEMAS DE INFORMAÇÃO
+### CONCLUSÃO 02/2012
 No projeto de conclusão de curso desenvolvemos um sistema de controle de acesso de pessoas com autenticação biométrica, onde utilizamos a linguagem de desenvolvimento C# e banco de dados SQL Server.
 
 # Certificações
