@@ -16,18 +16,16 @@ Proativo
     * `Design Patterns`
     * `DDD`
     * `CQRS`
-    * TDD
-    * BDD
-    * MVC
+    * `TDD`
+    * `BDD`
+    * `MVC`
 
 # Experiência
 ## GLOBALTEC SA
 ### 09-2010
-Nesta empresa tive diversas oportunidades que desafiaram minhas habilidades de desenvolvedor e analista de software, trabalhei com desenvolvimento e manutenção de software, com levantamento de requisito junto aos usuários do sistema, prototipação e modelagem de novas soluções, coordenador de equipe com o objetivo de desenvolver um novo produto para integrar o ERP com o sistema do governo E-Social.
 
 ## VMSET SISTEMAS DE INFORMÁTICA LTDA ME
-### 05-210
-Nesta empresa tive minha primeira oportunidade como desenvolvedor de software onde tive a oportunidade de trabalhar as linguagens de desenvolvimento DELPHI e Oracle PL/SQL
+### `05-2010` a `08-2010`
 
 # Educação
 ## SISTEMAS DE INFORMAÇÃO
