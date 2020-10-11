@@ -22,10 +22,10 @@ Proativo
 
 # Experiência
 ## GLOBALTEC SA
-### 09-2010
+#### Período: `09-2010`
 
 ## VMSET SISTEMAS DE INFORMÁTICA LTDA ME
-### `05-2010` a `08-2010`
+#### Período: `05-2010` a `08-2010`
 
 # Educação
 ## SISTEMAS DE INFORMAÇÃO
