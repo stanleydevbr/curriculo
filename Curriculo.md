@@ -10,7 +10,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stanleydiaspaulo@gmail.com)](mailto:stanleydiaspaulo@gmail.com)
 
 # Perfil
-Sou desenvolvedor back-end, amante de tecnologia e apaixonado por conhecimento. Sou bastante curioso e entusiasta de novas tecnologias, busco sempre estar atualizado com as tendências de mercado.
+Olá, sou bacharel em sistemas de informação, desenvolvedor back-end, amante de tecnologia e apaixonado por conhecimento. Sou bastante curioso e entusiasta de novas tecnologias, busco sempre estar atualizado com as tendências de mercado.
 
 # Objetivo
 Promover o crescimento de minha carreira profissional, apreender o mais rápido possível todas as atribuições do cargo para poder mostrar resultados.
@@ -73,7 +73,7 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 * 
 # Cursos
 <details>
-    <summary><b><img src="https://img.shields.io/badge/React-JS-orange" a href=""/> Formação C# Programming </b> <i>[expandir]</i></summary>
+    <summary><b> ![<img src="https://img.shields.io/badge/React-JS-orange"]/> Formação C# Programming </b> <i>[expandir]</i></summary>
         - Ponto flutuante, booleanos, structs e enuns
         - Tipos de referência
         - Classes, métodos, métodos de extensão
