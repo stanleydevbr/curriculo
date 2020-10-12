@@ -4,7 +4,7 @@
 * :iphone: `(62) 99134-1448`
 * :email: `stanleydiaspaulo@gmail.com`
 * :family: `Esposa` e `Filho`
-[![Build Status](https://img.shields.io/appveyor/ci/thiagoloureiro/netcore-jwt-integrator-extension/master.svg)](https://ci.appveyor.com/project/thiagoloureiro/netcore-jwt-integrator-extension)
+
 # Perfil
 Sou desenvolvedor back-end, amante de tecnologia e apaixonado por conhecimento. Sou bastante curioso e entusiasta de novas tecnologias, busco sempre estar atualizado com as tendências de mercado.
 
