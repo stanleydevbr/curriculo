@@ -188,7 +188,7 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
         - Hierarquias e tipo de dimensões
         - O que é OLAP?
         - Outros tópicos
-        - *ETL com integration services: Modelo de dados*
+        - <b>ETL com integration services: Modelo de dados</b>
         - Compreendendo o problema
         - Instalando os produtos
         - O projeto do Data Warehouse
@@ -196,20 +196,20 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
         - Dimensões organizacional e tempo
         - As tabelas fato
         - Carregando dados na dimensão
-        - *ETL com integration services: Transformação de dados*
+        - <b>ETL com integration services: Transformação de dados</b>
         - Carregando dimensão cliente
         - Preparando a dimensão produto
         - A dimensão organizacional
         - Criando a dimensão tempo
         - Tabelas de fato
         - Conclusão
-        - *OLAP com SQL Server: Construção do Data Warehouse*
+        - <b>OLAP com SQL Server: Construção do Data Warehouse</b>
         - Configuração
         - DW criando as primeiras dimensões
         - Snow Flake, Tempo e Pai-Filho
         - Criando os OLAPs
         - Desnormalizando base de dados
-        - *Consultas Multidimensionais: MDX com SQL Server*
+        - <b>Consultas Multidimensionais: MDX com SQL Server</b>
         - Configuração
         - Seleção de elementos
         - Ordem da exibição de elementos
@@ -217,7 +217,7 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
         - Períodos de Tempo
         - Trabalhando com dados ordenados
         - Análise de Pareto ou 80 20 
-        - *Report Analysis com Power BI: Gerando relatórios empresariais*
+        - <b>Report Analysis com Power BI: Gerando relatórios empresariais</b>
         - Configurando o ambiente
         - Conceitos, acesso e construção de uma visão simples
         - Concstruindo relatórios
