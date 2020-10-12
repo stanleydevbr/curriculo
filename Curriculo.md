@@ -17,7 +17,7 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 
 # :mortar_board: Educação
 ### SISTEMAS DE INFORMAÇÃO
-#### FACULDADE SUL AMERICA - CONCLUSÃO 02/2012
+#### FACULDADE SUL-AMERICANA - CONCLUSÃO 02/2012
 * No projeto de conclusão de curso desenvolvemos um sistema de controle de acesso de pessoas com autenticação biométrica, onde utilizamos a linguagem de desenvolvimento C# e banco de dados SQL Server.
 
 # 💻Principais Habilidades
@@ -70,16 +70,82 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 # Especializações
 
 # Certificações
-*
+* 
 
 # Cursos
-* BI e Data Warehouse com SQL Server e Power BI 
-* Alura Cursos online 05-2020
-* ASP.NET Core e Angular 7 
-* Eduardo Pires – Treinamentos e Consultoria 01-2019
-* Arquitetura de Software .NET
-* Eduardo Pires – Treinamento e Consultoria 10-2018
-* ASP.NET MVC 5 Enterprise Applications 
-* Eduardo Pires – Treinamento e Consultoria 10-2016
+* Formação C# Programming
+    - Ementa do curso:
+        - Ponto flutuante, booleanos, structs e enuns
+        - Tipos de referência
+        - Classes, métodos, métodos de extensão
+        - Métodos sobrecarregados e substituídos
+        - Box ou unbox para converter entre tipos de valor
+        - Cast de tipos
+        - Implementando conversões
+        - Tipos dinâmicos
+        - Propriedades e acessadores
+        - Projetar interfaces
+        - Interfaces explícitas
+        - Case base
+        - Comparações entre objetos
+        - Fluxo de programa If, Else Switch
+        - Compliação condicional
+        - Fluxo de programa While e Do
+        - Integração com For e Foreach
+        - Manipulação de exceções
+        - Exceções com SQL Server e Rede
+        - Gerenciamento de memória
+        - Coletando lixo
+        - O padrão disposable
+        - Concatenação, Escrita e Leitura de Strings
+        - Pesquisando Strings
+        - Formatação de Strings
+        - Eventos
+        - Manipuladores de eventos
+        - Delegados e lambda
+        - Func, Action e Predicate
+        - Consultando e filtrando daos com LINQ
+        - Projeção de dados
+        - Agrupamento e agregação
+        - Paginação e sintaxe de método
+        - Consulta com XML
+        - Ler e Gravar Bytes em Fluxos de Arquivos
+        - Ler e Gravar Strings em Fluxo de arquivos
+        - Gerenciando arquivos
+        - Gerenciando diretórios
+        - Acessando a web de forma assíncrona
+        - Lendo e atualizando banco de dados
+        - Consumindo serviços e interpretando dados
+        - Gerenciando assemplies
+        - Assinando assemblies com nome forte
+        - Depurando aplicações
+        - Compilação condicional
+        - Compilação em modo debug e release
+        - Rastreamento de aplicações
+        - Gravando mensagens no event log
+        - Contadores de desempenho
+        - Criar e aplicar atributos
+        - Ler os atributos
+        - Usar reflection
+        - Geração de código
+        - Tipos do System Reflection
+        - Task Parallel Library
+        - Consultas LINQ com Paralelismo
+        - Espera, continuação e hierarquia de tarefas
+        - Threads
+        - Desbloqueando a interface do usuário
+        - Async, Await, Coleções simultâneas e bloqueios
+        - Cancelamento de Tarefas e Métodos Thread Safe
+        - Validar dados JSON
+        - Escolher o tipo de coleção adequada
+        - Validando com Expressão Regular
+        - Funções Internas para Validar Tipos e Conteúdos
+        - Criptografia Simétrica e Assimétrica
+        - Gerenciamento de Chave
+        - Gerenciar e Criar Certificados
+        - Fazendo Hash de dados
+
+
+* 
 
 
