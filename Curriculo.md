@@ -8,7 +8,7 @@
 # Objetivo
 Promover o crescimento de minha carreira profissional, apreender o mais rápido possível todas as atribuições do cargo para poder mostrar resultados.
 
-# :donut: Habilidades & Competências
+# :DNA: Habilidades & Competências
 * Desenvolvedor com vasta experiência em práticas de programação, análise e interpretação de requisitos de software com mais de 10 anos de mercado;
 * Experiência em desenvolvimento e manuteções de aplicações `ERP`;
 * Conhecimentos em arquitetura de software:
