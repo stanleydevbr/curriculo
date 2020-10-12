@@ -4,6 +4,7 @@
 * :iphone: `(62) 99134-1448`
 * :email: `stanleydiaspaulo@gmail.com`
 * :family: `Esposa` e `Filho`
+<img src="https://img.shields.io/badge/<stanleydiaspaulo>%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
 
 # Objetivo
 Promover o crescimento de minha carreira profissional, apreender o mais rápido possível todas as atribuições do cargo para poder mostrar resultados.
