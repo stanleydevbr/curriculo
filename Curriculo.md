@@ -36,7 +36,7 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 * Banco de dados:
     - <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
     - <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
-    - <img src ="https://img.shields.io/badge/Microsoft SQL Server?logo=microsoft-sql-server&style=for-the-badge" />
+    - <img src ="https://img.shields.io/badge/Microsoft%SQL%Server?logo=microsoft-sql-server&style=for-the-badge" />
 
 
 # 💻Experiência
