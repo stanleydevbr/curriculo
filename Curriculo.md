@@ -8,14 +8,14 @@
 # Objetivo
 Promover o crescimento de minha carreira profissional, apreender o mais rápido possível todas as atribuições do cargo para poder mostrar resultados.
 
-# :DNA: Habilidades & Competências
+# Habilidades & Competências
 * Desenvolvedor com vasta experiência em práticas de programação, análise e interpretação de requisitos de software com mais de 10 anos de mercado;
 * Experiência em desenvolvimento e manuteções de aplicações `ERP`;
 * Conhecimentos em arquitetura de software:
     * `OOP`, `SOLID`, `Clean Code`, `Design Patterns`, `DDD`, `CQRS`, `TDD`, `BDD`, `MVC`
 * Conhecedor das metologias e processos de desenvolvimentos ageis e experiência como `SCRUM MASTER`;
 
-# Experiência
+# 💻Experiência
 #### GLOBALTEC SA
 * Período: `09-2010` até o momento
 
@@ -26,6 +26,8 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 ### SISTEMAS DE INFORMAÇÃO
 #### FACULDADE SUL AMERICA - CONCLUSÃO 02/2012
 * No projeto de conclusão de curso desenvolvemos um sistema de controle de acesso de pessoas com autenticação biométrica, onde utilizamos a linguagem de desenvolvimento C# e banco de dados SQL Server.
+
+# Especializações
 
 # Certificações
 *
@@ -40,4 +42,4 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 * ASP.NET MVC 5 Enterprise Applications 
 * Eduardo Pires – Treinamento e Consultoria 10-2016
 
-# Especializações
+
