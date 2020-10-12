@@ -10,21 +10,21 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 
 # Habilidades & Competências
 * Desenvolvedor com vasta experiência em práticas de programação, análise e interpretação de requisitos de software com mais de 10 anos de mercado;
-* Experiência em desenvolvimento e manuteções de aplicações ERP;
+* Experiência em desenvolvimento e manuteções de aplicações `ERP`;
 * Conhecimentos em arquitetura de software:
     * `OOP`, `SOLID`, `Clean Code`, `Design Patterns`, `DDD`, `CQRS`, `TDD`, `BDD`, `MVC`
 * Conhecedor das metologias e processos de desenvolvimentos ageis e experiência como `SCRUM MASTER`;
 
 # Experiência
-## GLOBALTEC SA
+#### GLOBALTEC SA
 * Período: `09-2010` até o momento
 
-## VMSET SISTEMAS DE INFORMÁTICA LTDA ME
+#### VMSET SISTEMAS DE INFORMÁTICA LTDA ME
 * Período: `05-2010` a `08-2010`
 
 # :mortar_board: Educação
-## SISTEMAS DE INFORMAÇÃO
-### FACULDADE SUL AMERICA - CONCLUSÃO 02/2012
+### SISTEMAS DE INFORMAÇÃO
+#### FACULDADE SUL AMERICA - CONCLUSÃO 02/2012
 * No projeto de conclusão de curso desenvolvemos um sistema de controle de acesso de pessoas com autenticação biométrica, onde utilizamos a linguagem de desenvolvimento C# e banco de dados SQL Server.
 
 # Certificações
