@@ -4,7 +4,10 @@
 * :iphone: `(62) 99134-1448`
 * :email: `stanleydiaspaulo@gmail.com`
 * :family: `Esposa` e `Filho`
-<img src="https://img.shields.io/badge/<stanleydiaspaulo>%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
+<img src="https://img.shields.io/badge/<YouTube>%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/user/sdph2007"/>
+<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/<handle>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+<img src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 
 # Objetivo
 Promover o crescimento de minha carreira profissional, apreender o mais rápido possível todas as atribuições do cargo para poder mostrar resultados.
@@ -22,6 +25,10 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
     - <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
     - <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
     - <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+* Banco de dados:
+- <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+- <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
+- <img src ="https://img.shields.io/badge/sqlserver%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 
 
 # 💻Experiência
