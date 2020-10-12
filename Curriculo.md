@@ -9,10 +9,18 @@
 <img src="https://img.shields.io/badge/<handle>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 <img src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 
+# Perfil
+Sou desenvolvedor back-end, amante de tecnologia e apaixonado por conhecimento. Sou bastante curioso e entusiasta de novas tecnologias, busco sempre estar atualizado com as tendências de mercado.
+
 # Objetivo
 Promover o crescimento de minha carreira profissional, apreender o mais rápido possível todas as atribuições do cargo para poder mostrar resultados.
 
-# 💻Habilidades & Competências
+# :mortar_board: Educação
+### SISTEMAS DE INFORMAÇÃO
+#### FACULDADE SUL AMERICA - CONCLUSÃO 02/2012
+* No projeto de conclusão de curso desenvolvemos um sistema de controle de acesso de pessoas com autenticação biométrica, onde utilizamos a linguagem de desenvolvimento C# e banco de dados SQL Server.
+
+# 💻Principais Habilidades
 * Desenvolvedor com vasta experiência em práticas de programação, análise e interpretação de requisitos de software com mais de 10 anos de mercado;
 * Experiência em desenvolvimento e manuteções de aplicações `ERP`;
 * Conhecimentos em arquitetura de software:
@@ -26,9 +34,9 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
     - <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
     - <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 * Banco de dados:
-- <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-- <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
-- <img src ="https://img.shields.io/badge/sqlserver%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
+    - <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+    - <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
+    - <img src ="https://img.shields.io/badge/style-for--the--badge-green?logo=microsoft-sql-server&style=for-the-badge" />
 
 
 # 💻Experiência
@@ -38,10 +46,6 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 #### VMSET SISTEMAS DE INFORMÁTICA LTDA ME
 * Período: `05-2010` a `08-2010`
 
-# :mortar_board: Educação
-### SISTEMAS DE INFORMAÇÃO
-#### FACULDADE SUL AMERICA - CONCLUSÃO 02/2012
-* No projeto de conclusão de curso desenvolvemos um sistema de controle de acesso de pessoas com autenticação biométrica, onde utilizamos a linguagem de desenvolvimento C# e banco de dados SQL Server.
 
 # Especializações
 
