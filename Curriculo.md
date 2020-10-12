@@ -73,7 +73,7 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 * 
 
 # Cursos
-    <details>
+*   <details>
     <summary><b>`Formação C# Programming`</b> <i>(expandir)</i></summary>
         - Ponto flutuante, booleanos, structs e enuns
         - Tipos de referência
