@@ -8,12 +8,15 @@
 # Objetivo
 Promover o crescimento de minha carreira profissional, apreender o mais rápido possível todas as atribuições do cargo para poder mostrar resultados.
 
-# Habilidades & Competências
+# 💻Habilidades & Competências
 * Desenvolvedor com vasta experiência em práticas de programação, análise e interpretação de requisitos de software com mais de 10 anos de mercado;
 * Experiência em desenvolvimento e manuteções de aplicações `ERP`;
 * Conhecimentos em arquitetura de software:
     * `OOP`, `SOLID`, `Clean Code`, `Design Patterns`, `DDD`, `CQRS`, `TDD`, `BDD`, `MVC`
 * Conhecedor das metologias e processos de desenvolvimentos ageis e experiência como `SCRUM MASTER`;
+|Liguagens|
+|---------|
+|<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>|
 
 # 💻Experiência
 #### GLOBALTEC SA
