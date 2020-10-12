@@ -1,9 +1,9 @@
 # Dados Pessoais
 ## Stanley Dias Paulo 
-* :house: Rua 509 Quadra 11 Lote 12, Jardim Monte Serrat, Aparecida de Goiânia - GO
+* :triangular_flag_on_post: Rua 509 Quadra 11 Lote 12, Jardim Monte Serrat, Aparecida de Goiânia - GO
 * :iphone: `(62) 999134-1448`
 * :email: `stanleydiaspaulo@gmail.com`
-* Situação: Casado e com um filho
+* :family: Casado e com um filho
 
 # Objetivo
 Promover o crescimento de minha carreira profissional, apreender o mais rápido possível todas as atribuições do cargo para poder mostrar resultados.
