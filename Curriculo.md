@@ -29,7 +29,7 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
     * `OOP`, `SOLID`, `Clean Code`, `Design Patterns`, `DDD`, `CQRS`, `TDD`, `BDD`, `MVC`
 * Conhecedor das metologias e processos de desenvolvimentos ageis e experiência como `SCRUM MASTER`;
 * Liguagens de programação:
-    - <img src="https://img.shields.io/badge/%20-Microsoft%20SQL%20Server-green"
+    - <img src="https://img.shields.io/badge/%20-Microsoft%20SQL%20Server-red"/>
     - <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
     - <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     - <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> 
