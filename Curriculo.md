@@ -4,11 +4,7 @@
 * :iphone: `(62) 99134-1448`
 * :email: `stanleydiaspaulo@gmail.com`
 * :family: `Esposa` e `Filho`
-<![img src="https://img.shields.io/badge/<YouTube>%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white](link=https://www.youtube.com/user/sdph2007)"/>
-<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-<img src="https://img.shields.io/badge/<handle>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
-<img src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
-
+[![Build Status](https://img.shields.io/appveyor/ci/thiagoloureiro/netcore-jwt-integrator-extension/master.svg)](https://ci.appveyor.com/project/thiagoloureiro/netcore-jwt-integrator-extension)
 # Perfil
 Sou desenvolvedor back-end, amante de tecnologia e apaixonado por conhecimento. Sou bastante curioso e entusiasta de novas tecnologias, busco sempre estar atualizado com as tendências de mercado.
 
