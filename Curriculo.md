@@ -29,17 +29,16 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
     * `OOP`, `SOLID`, `Clean Code`, `Design Patterns`, `DDD`, `CQRS`, `TDD`, `BDD`, `MVC`
 * Conhecedor das metologias e processos de desenvolvimentos ageis e experiência como `SCRUM MASTER`;
 * Liguagens de programação:
-    - <img src="https://img.shields.io/badge/%20-Microsoft%20SQL%20Server-red"/>
-    - <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    - <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-    - <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> 
-    - <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-    - <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-    - <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+    - <img src="https://img.shields.io/badge/%20-C%23-green"/>
+    - <img src="https://img.shields.io/badge/%20-Delphi-lightgrey"/>
+    - <img src="https://img.shields.io/badge/%20-VB6-yellowgreen"/> 
+    - <img src="https://img.shields.io/badge/%20-TypeScript-blue"/>
+    - <img src="https://img.shields.io/badge/%20-Java%20Script-yellow"/>
+    - <img src="https://img.shields.io/badge/%20-NodeJS-green"/>
 * Banco de dados:
-    - <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-    - <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
-    - <img src ="https://img.shields.io/badge/Microsoft%SQL%Server?logo=microsoft-sql-server&style=for-the-badge" />
+    - <img src="https://img.shields.io/badge/%20-Microsoft%20SQL%20Server-red"/>
+    - <img src="https://img.shields.io/badge/%20-Oracle-red"/>
+    - <img src ="https://img.shields.io/badge/%20-MySQL-blue" />
 
 
 # 💻Experiência
