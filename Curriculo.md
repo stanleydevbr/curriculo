@@ -149,10 +149,32 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 * SQL com Microsoft SQL Server 2017
     <details>
         <summary><b>Ementa do curso</b> <i>(clique aqui para expandir)</i></summary>
-        - teste
-        - teste
-
-
+        - Instalando e configurando o SQL Server
+        - Manipulando o banco de dados
+        - Gerenciando as tabelas do banco de dados
+        - Manutenção dos daos nas tabelas
+        - Consultado os dados
+        - Configurando ambiente e conhecendo o SQL
+        - Filtrando as consultas de dados
+        - Mudando a apresentação dos dados de uma consulta
+        - Juntando tabelas e consultas
+        - Funções do SQL Server
+        - Relatórios
+        - Modelagem do banco de dados
+        - Criando a estrutura do banco de dados
+        - Incluindo dados nas tabelas
+        - Alterando e excluindo dados das tabelas
+        - Auto-incremento, padrões e triggers
+        - T-SQL
+        - Elementos do T-SQL
+        - Escrevendo funções
+        - Stored procedures
+        - Cursores
+        - Papel do DBA
+        - Estrutura da base de dados
+        - Autenticação e autorização
+        - Melhorando desempenho com índices
+        - Plano de consultas
     </details>
 
 
