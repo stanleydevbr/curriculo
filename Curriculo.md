@@ -9,8 +9,6 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5562991341448!)](https://api.whatsapp.com/send?phone=5562991341448!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stanleydiaspaulo@gmail.com)](mailto:stanleydiaspaulo@gmail.com)
 
-[![vsm-version](https://img.shields.io/visual-studio-marketplace/v/extensionId?style=flat-square&label=Visual%20Studio%20Marketplace&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=extensionId)
-
 # Perfil
 Sou desenvolvedor back-end, amante de tecnologia e apaixonado por conhecimento. Sou bastante curioso e entusiasta de novas tecnologias, busco sempre estar atualizado com as tendências de mercado.
 
