@@ -36,7 +36,7 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
     <img src="https://img.shields.io/badge/%20-HTML5-red"/>
     <img src="https://img.shields.io/badge/-CSS3-blue"/>
 * Banco de dados:
-    <img src="https://img.shields.io/badge/%20-Microsoft%20SQL%20Server-red"/>
+    <img src="https://img.shields.io/badge/%20-Microsoft%20SQL%20Server-yellow"/>
     <img src="https://img.shields.io/badge/%20-Oracle-red"/>
     <img src="https://img.shields.io/badge/%20-MySQL-blue" />
 
