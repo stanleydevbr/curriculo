@@ -69,9 +69,9 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 
 # Especializações
 
-# Certificações
+# ⭐Certificações
 * 
-# Cursos
+# 🏷️Cursos
 <details>
     <summary><b>Formação C# Programming </b> <i>[expandir]</i></summary>
         - Ponto flutuante, booleanos, structs e enuns
@@ -225,5 +225,5 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 <details>
     <summary><b>Git e GitHub: Controlando e compartilhando seu código</b></summary>
     O que é o Git e como instalá-lo, como criar um repositório, analise de status do repositório, entendendo o comando commit, como adicionar arquivos com git add, verificar históricos de commits, ignorando arquivos e/ou pastas com .gitignore, repositórios remotos, adicionando link para o repositório remoto com 'remote add', como baixar um repositório pela primeira vez, clonando-o com o comando git clone, enviando as alterações para um repositório remoto com o comando git push, atualizando o repositório remoto utilizando git pull, o que é para que serve o GitHub, Entendo o que é uma branch, visualizando as alterações realizadas com o comando git diff
-
 </details>
+
