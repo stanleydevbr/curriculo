@@ -1,27 +1,28 @@
 # Dados Pessoais
 ## Stanley Dias Paulo 
 * :triangular_flag_on_post: Rua 509 Quadra 11 Lote 12, Jardim Monte Serrat, Aparecida de Goiânia - GO
-* :iphone: `(62) 999134-1448`
+* :iphone: `(62) 99134-1448`
 * :email: `stanleydiaspaulo@gmail.com`
-* :family: Casado e com um filho
+* :family: `Esposa` e `Filho`
 
 # Objetivo
 Promover o crescimento de minha carreira profissional, apreender o mais rápido possível todas as atribuições do cargo para poder mostrar resultados.
 
 # Habilidades & Competências
-* Desenvolvedor com vasta experiência em práticas de programação, análise e interpretação de requisitos de software e modelagem e manutenção de banco de dados;
+* Desenvolvedor com vasta experiência em práticas de programação, análise e interpretação de requisitos de software com mais de 10 anos de mercado;
 * Experiência em desenvolvimento e manuteções de aplicações ERP;
 * Conhecimentos em arquitetura de software:
     * `OOP`, `SOLID`, `Clean Code`, `Design Patterns`, `DDD`, `CQRS`, `TDD`, `BDD`, `MVC`
+* Conhecedor das metologias e processos de desenvolvimentos ageis e experiência como `SCRUM MASTER`;
 
 # Experiência
 ## GLOBALTEC SA
-* Período: `09-2010`
+* Período: `09-2010` até o momento
 
 ## VMSET SISTEMAS DE INFORMÁTICA LTDA ME
 * Período: `05-2010` a `08-2010`
 
-# Educação
+# :mortar_board: Educação
 ## SISTEMAS DE INFORMAÇÃO
 ### FACULDADE SUL AMERICA - CONCLUSÃO 02/2012
 * No projeto de conclusão de curso desenvolvemos um sistema de controle de acesso de pessoas com autenticação biométrica, onde utilizamos a linguagem de desenvolvimento C# e banco de dados SQL Server.
