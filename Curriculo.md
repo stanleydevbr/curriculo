@@ -44,10 +44,10 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 
 * Frameworks
     - <img src="https://img.shields.io/badge/EntityFramework-Core-blue"/>
-    - <img src="https://img.shields.io/badge/React-JS-orange"/>
-    - <img src="https://img.shields.io/badge/Angular-7%2B-red"/>
     - <img src="https://img.shields.io/badge/ASP.NET-MVC5-green"/>
     - <img src="https://img.shields.io/badge/ASP.NET-Core-blue"/>
+    - <img src="https://img.shields.io/badge/Angular-7%2B-red"/>
+    - <img src="https://img.shields.io/badge/React-JS-orange"/>
     
 
 # 💻Experiência
