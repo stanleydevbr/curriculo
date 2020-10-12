@@ -30,13 +30,13 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 * Conhecedor das metologias e processos de desenvolvimentos ageis e experiência como `SCRUM MASTER`;
 * Liguagens de programação:
     - <img src="https://img.shields.io/badge/%20-C%23-green"/>
-    - <img src="https://img.shields.io/badge/%20-Delphi-lightgrey"/>
-    - <img src="https://img.shields.io/badge/%20-VB6-yellowgreen"/> 
-    - <img src="https://img.shields.io/badge/%20-TypeScript-blue"/>
-    - <img src="https://img.shields.io/badge/%20-Java%20Script-yellow"/>
-    - <img src="https://img.shields.io/badge/%20-NodeJS-green"/>
-    - <img src="https://img.shields.io/badge/%20-HTML5-red"/>
-    - <img src="https://img.shields.io/badge/-CSS3-blue"/>
+    <img src="https://img.shields.io/badge/%20-Delphi-lightgrey"/>
+    <img src="https://img.shields.io/badge/%20-VB6-yellowgreen"/> 
+    <img src="https://img.shields.io/badge/%20-TypeScript-blue"/>
+    <img src="https://img.shields.io/badge/%20-Java%20Script-yellow"/>
+    <img src="https://img.shields.io/badge/%20-NodeJS-green"/>
+    <img src="https://img.shields.io/badge/%20-HTML5-red"/>
+    <img src="https://img.shields.io/badge/-CSS3-blue"/>
 * Banco de dados:
     - <img src="https://img.shields.io/badge/%20-Microsoft%20SQL%20Server-red"/>
     - <img src="https://img.shields.io/badge/%20-Oracle-red"/>
@@ -53,7 +53,7 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 # 💻Experiência
 #### GLOBALTEC SA
 * Período: `09-2010` até o momento
-[]
+
 #### VMSET SISTEMAS DE INFORMÁTICA LTDA ME
 * Período: `05-2010` a `08-2010`
 
