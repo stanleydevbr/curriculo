@@ -146,36 +146,6 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 </details>
 
 <details>
-        <summary><b>SQL com Microsoft SQL Server 2017</b> <i>[expandir]</i></summary>
-        - Instalando e configurando o SQL Server
-        - Manipulando o banco de dados
-        - Gerenciando as tabelas do banco de dados
-        - Manutenção dos daos nas tabelas
-        - Consultado os dados
-        - Configurando ambiente e conhecendo o SQL
-        - Filtrando as consultas de dados
-        - Mudando a apresentação dos dados de uma consulta
-        - Juntando tabelas e consultas
-        - Funções do SQL Server
-        - Relatórios
-        - Modelagem do banco de dados
-        - Criando a estrutura do banco de dados
-        - Incluindo dados nas tabelas
-        - Alterando e excluindo dados das tabelas
-        - Auto-incremento, padrões e triggers
-        - T-SQL
-        - Elementos do T-SQL
-        - Escrevendo funções
-        - Stored procedures
-        - Cursores
-        - Papel do DBA
-        - Estrutura da base de dados
-        - Autenticação e autorização
-        - Melhorando desempenho com índices
-        - Plano de consultas
-</details>
-
-<details>
         <summary><b>BI e Data Warehouse com SQL Server e Power BI</b> <i>[expandir]</i></summary>
         - <b>Business Intelligence: Introdução à inteligência empresarial</b>
         - Dados e informação
@@ -225,5 +195,11 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 <details>
     <summary><b>Git e GitHub: Controlando e compartilhando seu código</b></summary>
     O que é o Git e como instalá-lo, como criar um repositório, analise de status do repositório, entendendo o comando commit, como adicionar arquivos com git add, verificar históricos de commits, ignorando arquivos e/ou pastas com .gitignore, repositórios remotos, adicionando link para o repositório remoto com 'remote add', como baixar um repositório pela primeira vez, clonando-o com o comando git clone, enviando as alterações para um repositório remoto com o comando git push, atualizando o repositório remoto utilizando git pull, o que é para que serve o GitHub, Entendo o que é uma branch, visualizando as alterações realizadas com o comando git diff
+</details>
+
+<details>
+    <summary><b>Git e GitHub: Estratégias de ramificação, Conflitos e Pull Requests</b></summary>
+
+    
 </details>
 
