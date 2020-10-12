@@ -146,5 +146,13 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
         - Gerenciar e Criar Certificados
         - Fazendo Hash de dados
     </details>
+* SQL com Microsoft SQL Server 2017
+    <details>
+        <summary><b>Ementa do curso</b> <i>(clique aqui para expandir)</i></summary>
+        - teste
+        - teste
+
+
+    </details>
 
 
