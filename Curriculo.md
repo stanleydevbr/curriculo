@@ -61,10 +61,10 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 
 # 💻Experiência
 #### GLOBALTEC SA
-* Período: <img src="https://img.shields.io/badge/%20-09--2010-green"/> até o momento
+* Período: `09-2010` até o momento
 
 #### VMSET SISTEMAS DE INFORMÁTICA LTDA ME
-* Período: <img src="https://img.shields.io/badge/%20-05--2010-green"/> a <img src="https://img.shields.io/badge/%20-08--2010-red"/>
+* Período: `05-2010` a `08-2010`
 
 
 # Especializações
