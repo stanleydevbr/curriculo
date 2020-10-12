@@ -5,6 +5,10 @@
 * :email: `stanleydiaspaulo@gmail.com`
 * :family: `Esposa` e `Filho`
 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stanleydiaspaulo/)](https://www.linkedin.com/in/stanleydiaspaulo/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5562991341448!)](https://api.whatsapp.com/send?phone=5562991341448!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stanleydiaspaulo@gmail.com)](stanleydiaspaulo@gmail.com)
+
 # Perfil
 Sou desenvolvedor back-end, amante de tecnologia e apaixonado por conhecimento. Sou bastante curioso e entusiasta de novas tecnologias, busco sempre estar atualizado com as tendências de mercado.
 
