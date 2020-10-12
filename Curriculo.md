@@ -24,7 +24,15 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 * Desenvolvedor com vasta experiência em práticas de programação, análise e interpretação de requisitos de software com mais de 10 anos de mercado;
 * Experiência em desenvolvimento e manuteções de aplicações `ERP`;
 * Conhecimentos em arquitetura de software:
-    * `OOP`, `SOLID`, `Clean Code`, `Design Patterns`, `DDD`, `CQRS`, `TDD`, `BDD`, `MVC`
+
+    <img src="https://img.shields.io/badge/%20-OOP-green"/>
+    <img src="https://img.shields.io/badge/%20-SOLID-blue"/>
+    <img src="https://img.shields.io/badge/-Clean%20Code-lightgrey"/>
+    <img src="https://img.shields.io/badge/%20-Design%20Patterns-orange"/>
+    <img src="https://img.shields.io/badge/%20-DDD-yellowgreen"/>
+    <img src="https://img.shields.io/badge/%20-CQRS-blue"/>
+    <img src="https://img.shields.io/badge/%20-TDD-lightgrey"/>
+    <img src="https://img.shields.io/badge/%20-BDD-brightgreen"/>
 * Conhecedor das metologias e processos de desenvolvimentos ageis e experiência como `SCRUM MASTER`;
 * Liguagens de programação:
 
