@@ -35,11 +35,20 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
     - <img src="https://img.shields.io/badge/%20-TypeScript-blue"/>
     - <img src="https://img.shields.io/badge/%20-Java%20Script-yellow"/>
     - <img src="https://img.shields.io/badge/%20-NodeJS-green"/>
+    - <img src="https://img.shields.io/badge/%20-HTML5-red"/>
+    - <img src="https://img.shields.io/badge/-CSS3-blue"/>
 * Banco de dados:
     - <img src="https://img.shields.io/badge/%20-Microsoft%20SQL%20Server-red"/>
     - <img src="https://img.shields.io/badge/%20-Oracle-red"/>
-    - <img src ="https://img.shields.io/badge/%20-MySQL-blue" />
+    - <img src="https://img.shields.io/badge/%20-MySQL-blue" />
 
+* Frameworks
+    - <img src="https://img.shields.io/badge/EntityFramework-Core-blue"/>
+    - <img src="https://img.shields.io/badge/React-JS-orange"/>
+    - <img src="https://img.shields.io/badge/Angular-7%2B-red"/>
+    - <img src="https://img.shields.io/badge/ASP.NET-MVC5-green"/>
+    - <img src="https://img.shields.io/badge/ASP.NET-Core-blue"/>
+    
 
 # 💻Experiência
 #### GLOBALTEC SA
