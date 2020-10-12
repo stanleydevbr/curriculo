@@ -73,8 +73,8 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 * 
 
 # Cursos
-*   <details>
-    <summary><b>`Formação C# Programming`</b> <i>(expandir)</i></summary>
+<details>
+    <summary><b>Formação C# Programming</b> <i>(expandir)</i></summary>
         - Ponto flutuante, booleanos, structs e enuns
         - Tipos de referência
         - Classes, métodos, métodos de extensão
@@ -144,10 +144,9 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
         - Gerenciamento de Chave
         - Gerenciar e Criar Certificados
         - Fazendo Hash de dados
-    </details>
-* `SQL com Microsoft SQL Server 2017`
-    <details>
-        <summary><b>Ementa do curso</b> <i>(clique aqui para expandir)</i></summary>
+</details>
+<details>
+        <summary><b>SQL com Microsoft SQL Server 2017</b> <i>(expandir)</i></summary>
         - Instalando e configurando o SQL Server
         - Manipulando o banco de dados
         - Gerenciando as tabelas do banco de dados
@@ -174,11 +173,10 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
         - Autenticação e autorização
         - Melhorando desempenho com índices
         - Plano de consultas
-    </details>
+</details>
 
-* `BI e Data Warehouse com SQL Server e Power BI`
-    <details>
-        <summary><b>Ementa do curso</b> <i>(clique aqui para expandir)</i></summary>
+<details>
+        <summary><b>BI e Data Warehouse com SQL Server e Power BI</b> <i>(expandir)</i></summary>
         - <b>Business Intelligence: Introdução à inteligência empresarial</b>
         - Dados e informação
         - Problema comuns nas empresas
@@ -222,4 +220,4 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
         - Concstruindo relatórios
         - Hierarquias, mapas e tabelas
         - Power BI Service
-    </details>
+</details>
