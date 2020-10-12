@@ -27,6 +27,7 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
     * `OOP`, `SOLID`, `Clean Code`, `Design Patterns`, `DDD`, `CQRS`, `TDD`, `BDD`, `MVC`
 * Conhecedor das metologias e processos de desenvolvimentos ageis e experiência como `SCRUM MASTER`;
 * Liguagens de programação:
+
     <img src="https://img.shields.io/badge/%20-C%23-green"/>
     <img src="https://img.shields.io/badge/%20-Delphi-lightgrey"/>
     <img src="https://img.shields.io/badge/%20-VB6-yellowgreen"/> 
@@ -36,11 +37,13 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
     <img src="https://img.shields.io/badge/%20-HTML5-red"/>
     <img src="https://img.shields.io/badge/-CSS3-blue"/>
 * Banco de dados:
+
     <img src="https://img.shields.io/badge/%20-Microsoft%20SQL%20Server-yellow"/>
     <img src="https://img.shields.io/badge/%20-Oracle-red"/>
     <img src="https://img.shields.io/badge/%20-MySQL-blue" />
 
 * Frameworks
+
     <img src="https://img.shields.io/badge/EntityFramework-Core-blue"/>
     <img src="https://img.shields.io/badge/ASP.NET-MVC5-green"/>
     <img src="https://img.shields.io/badge/ASP.NET-Core-blue"/>
