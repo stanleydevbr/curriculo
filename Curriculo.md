@@ -73,7 +73,7 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 * 
 # Cursos
 <details>
-    <summary><b> ![<img src="https://img.shields.io/badge/React-JS-orange"]/> Formação C# Programming </b> <i>[expandir]</i></summary>
+    <summary><b>Formação C# Programming </b> <i>[expandir]</i></summary>
         - Ponto flutuante, booleanos, structs e enuns
         - Tipos de referência
         - Classes, métodos, métodos de extensão
@@ -144,8 +144,9 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
         - Gerenciar e Criar Certificados
         - Fazendo Hash de dados
 </details>
+
 <details>
-        <summary><b>SQL com Microsoft SQL Server 2017</b> <i>(expandir)</i></summary>
+        <summary><b>SQL com Microsoft SQL Server 2017</b> <i>[expandir]</i></summary>
         - Instalando e configurando o SQL Server
         - Manipulando o banco de dados
         - Gerenciando as tabelas do banco de dados
@@ -175,7 +176,7 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 </details>
 
 <details>
-        <summary><b>BI e Data Warehouse com SQL Server e Power BI</b> <i>(expandir)</i></summary>
+        <summary><b>BI e Data Warehouse com SQL Server e Power BI</b> <i>[expandir]</i></summary>
         - <b>Business Intelligence: Introdução à inteligência empresarial</b>
         - Dados e informação
         - Problema comuns nas empresas
