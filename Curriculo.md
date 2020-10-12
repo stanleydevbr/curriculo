@@ -177,4 +177,51 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
         - Plano de consultas
     </details>
 
+* BI e Data Warehouse com SQL Server e Power BI
+    <details>
+        <summary><b>Ementa do curso</b> <i>(clique aqui para expandir)</i></summary>
+        - *Business Intelligence: Introdução à inteligência empresarial*
+        - Dados e informação
+        - Problema comuns nas empresas
+        - Matriz dimensão indicador
+        - Tabelas de um Datawarehouse
+        - Hierarquias e tipo de dimensões
+        - O que é OLAP?
+        - Outros tópicos
+        - *ETL com integration services: Modelo de dados*
+        - Compreendendo o problema
+        - Instalando os produtos
+        - O projeto do Data Warehouse
+        - As dimensões fábrica, cliente e produto
+        - Dimensões organizacional e tempo
+        - As tabelas fato
+        - Carregando dados na dimensão
+        - *ETL com integration services: Transformação de dados*
+        - Carregando dimensão cliente
+        - Preparando a dimensão produto
+        - A dimensão organizacional
+        - Criando a dimensão tempo
+        - Tabelas de fato
+        - Conclusão
+        - *OLAP com SQL Server: Construção do Data Warehouse*
+        - Configuração
+        - DW criando as primeiras dimensões
+        - Snow Flake, Tempo e Pai-Filho
+        - Criando os OLAPs
+        - Desnormalizando base de dados
+        - *Consultas Multidimensionais: MDX com SQL Server*
+        - Configuração
+        - Seleção de elementos
+        - Ordem da exibição de elementos
+        - Cálculos nos Elementos do OLAP
+        - Períodos de Tempo
+        - Trabalhando com dados ordenados
+        - Análise de Pareto ou 80 20 
+        - *Report Analysis com Power BI: Gerando relatórios empresariais*
+        - Configurando o ambiente
+        - Conceitos, acesso e construção de uma visão simples
+        - Concstruindo relatórios
+        - Hierarquias, mapas e tabelas
+        - Power BI Service
 
+    </details>
