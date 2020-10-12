@@ -76,7 +76,6 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 * Formação C# Programming
     <details>
     <summary><b>Ementa do curso</b> <i>(clique aqui para expandir)</i></summary>
-        ### Ementa do curso
         - Ponto flutuante, booleanos, structs e enuns
         - Tipos de referência
         - Classes, métodos, métodos de extensão
