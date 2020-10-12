@@ -73,7 +73,7 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 * 
 # Cursos
 <details>
-    <summary><b>Formação C# Programming </b> <i>(expandir)</i></summary>
+    <summary><b><img src="https://img.shields.io/badge/React-JS-orange" a href=""/> Formação C# Programming </b> <i>[expandir]</i></summary>
         - Ponto flutuante, booleanos, structs e enuns
         - Tipos de referência
         - Classes, métodos, métodos de extensão
