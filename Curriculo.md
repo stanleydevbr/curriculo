@@ -73,7 +73,7 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 * 
 
 # Cursos
-* Formação C# Programming
+* `Formação C# Programming`
     <details>
     <summary><b>Ementa do curso</b> <i>(clique aqui para expandir)</i></summary>
         - Ponto flutuante, booleanos, structs e enuns
@@ -146,7 +146,7 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
         - Gerenciar e Criar Certificados
         - Fazendo Hash de dados
     </details>
-* SQL com Microsoft SQL Server 2017
+* `SQL com Microsoft SQL Server 2017`
     <details>
         <summary><b>Ementa do curso</b> <i>(clique aqui para expandir)</i></summary>
         - Instalando e configurando o SQL Server
@@ -177,10 +177,10 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
         - Plano de consultas
     </details>
 
-* BI e Data Warehouse com SQL Server e Power BI
+* `BI e Data Warehouse com SQL Server e Power BI`
     <details>
         <summary><b>Ementa do curso</b> <i>(clique aqui para expandir)</i></summary>
-        - *Business Intelligence: Introdução à inteligência empresarial*
+        - <b>Business Intelligence: Introdução à inteligência empresarial</b>
         - Dados e informação
         - Problema comuns nas empresas
         - Matriz dimensão indicador
@@ -223,5 +223,4 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
         - Concstruindo relatórios
         - Hierarquias, mapas e tabelas
         - Power BI Service
-
     </details>
