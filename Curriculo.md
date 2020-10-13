@@ -205,6 +205,15 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 
 <details>
     <summary><b>Introdução ao Entity Framework Core</b></summary>
+    <table>
+        <thead>Emento do curso</thead>
+        <tbody>
+            <tr>
+               <td>Introdução</td> 
+               <td>O que é EntityFramework</td>
+            </tr>
+        </tbody>
+    </table>
     <p>
     O que é um ORM?, Orientação a objetos vs Modelo relacional, O que é o Entity Framework Core?, Como funciona o Entity Framework, História do Entity Framework Core, Por que o Entity Framework Core foi reescrito do zero, Quais são os providers disponíveis, EF 6 vs EF Core 
     </p>
