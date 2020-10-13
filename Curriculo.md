@@ -216,8 +216,35 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
         <tbody>
             <tr>
                <td>Introdução</td> 
-               <td>O que é EntityFramework</td>
             </tr>
+            <tr>
+                <td>O que é ORM?</td>
+            </tr>
+            <tr>
+                <td>Orientação a objetos vs Modelo relacional</td>
+            </tr>
+            <tr>
+                <td>O que é o Entity Framework Core?</td>
+            </tr>                        
+            <tr>
+                <td>Como funciona o Entity Framework</td>
+            </tr>                                    
+            <tr>
+                <td>História do Entity Framework Core</td>
+            </tr>                                    
+            <tr>
+                <td>Por que o Entity Framework Core foi reescrito do zero</td>
+            </tr>                                    
+            <tr>
+                <td>Quais são os providers disponíveis</td>
+            </tr>                                    
+            <tr>
+                <td>EF 6 vx EF Core</td>
+            </tr>                                    
+            <tr>
+                <td></td>
+            </tr>                                                            
+
         </tbody>
     </table>
     <p>
