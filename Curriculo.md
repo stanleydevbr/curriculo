@@ -203,3 +203,32 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
     
 </details>
 
+<details>
+    <summary><b>Introdução ao Entity Framework Core</b></summary>
+    <p>
+    O que é um ORM?, Orientação a objetos vs Modelo relacional, O que é o Entity Framework Core?, Como funciona o Entity Framework, História do Entity Framework Core, Por que o Entity Framework Core foi reescrito do zero, Quais são os providers disponíveis, EF 6 vs EF Core 
+    </p>
+    <p>
+    <strong>Ambiente de desenvolvimento - IDE's</strong>, IDE's disponíveis, Instalação do SDK do .NET Core, Instalação das extensões do VS Code, Instalação do SQL Server LocalBD
+    </p>
+    <p>
+    <strong>Desenvolvendo a primeira aplicação</strong>, Criando uma aplicação console no Visual Studio, Instalando o pacote do SQL Server Visual Studio Code, Instalando o pacote do SQL Server Visual Studio.
+    </p>
+    <p>
+    <strong>Coceitos Principais</strong>, Por onde começar, O que é Code First, O que é Database First, O que é DbContext.
+    </p>
+    <p>
+    <strong>Cenários de utilização</strong>, Sistemas de pedido, Criação das classes, Criação da classe de contexto, Mapeamento através do Fluent API, Arquivos de configurações, Utilizando DataAnnotations
+    </p>
+    <p>
+    <strong>Migrações</strong>, Introdução, O que é necessário para criar uma migração, Criando a primeira migração, Analisando a migração, Gerando Script SQL, Aplicando migração, Gerando Scripts SQL Idempotentes, Roolbak de migrações, Migrações pendentes.
+    </p>
+    <p>
+    <strong>Operações</strong>, Operações que iremos executar, Inserindo registros, Inserindo registros em massa, Consultando dados, Carregando adiantado, Atualizando registros, Removento registros, 
+    </p>
+    <p>
+    <strong>Bônus</strong>, Detectando propriedades não configuradas, Resiliência da conexão, Alterando o nome da tabela de histórico de migrações.
+    </p>
+    
+</details>
+
