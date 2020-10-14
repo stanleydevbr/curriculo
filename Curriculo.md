@@ -206,9 +206,6 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 <details>
     <summary><b>Introdução ao Entity Framework Core</b></summary>
     <table>
-        <thead>
-            <tr><td>Introdução ao Entity Framework Core</td></tr>
-        </thead>
         <tbody>
             <tr><td>Introdução</td></tr>
             <tr><td>O que é um ORM?</td></tr>
