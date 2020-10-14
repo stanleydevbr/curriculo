@@ -20,7 +20,7 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 #### FACULDADE SUL-AMERICANA - CONCLUSÃO 02/2012
 * No projeto de conclusão de curso desenvolvemos um sistema de controle de acesso de pessoas com autenticação biométrica, onde utilizamos a linguagem de desenvolvimento C# e banco de dados SQL Server.
 
-# 💻Principais Habilidades
+# 👨‍💻Principais Habilidades
 * Desenvolvedor com vasta experiência em práticas de programação, análise e interpretação de requisitos de software com mais de 10 anos de mercado;
 * Experiência em desenvolvimento e manuteções de aplicações `ERP`;
 * Conhecimentos em arquitetura de software:
@@ -59,7 +59,7 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
     <img src="https://img.shields.io/badge/React-JS-orange"/>
     
 
-# 💻Experiência
+# 👨‍💼Experiência
 #### GLOBALTEC SA
 * Período: `09-2010` até o momento
 
@@ -205,45 +205,63 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 
 <details>
     <summary><b>Introdução ao Entity Framework Core</b></summary>
-    <dl>
-        <dt>Introdução</dt>
-        <dd>O que é um ORM?</dd>
-        <dd>Orientação a objetos vs Modelo relacional</dd>
-        <dd>O que é o Entity Framework Core?</dd>
-        <dd>Como funciona o Entity Framework</dd>
-        <dd>História do Entity Framework Core</dd>
-        <dd>Por que o Entity Framework core foi reescrito do zero</dd>
-        <dd>Quais são os providers disponíveis</dd>
-        <dd>EF6 vs EF Core</dd>
-    </dl>
-    <dl>
-        <dt>Ambiente de desenvolvimento - IDE's</dt>
-        <dd>IDE's disponíveis</dd>
-        <dd>Instalação do SDK do .NET Core</dd>
-        <dd>Instalação das extensões do VS Code</dd>
-        <dd>Instalação do SQL Server LocalBD</dd>
-    </dl>
-    <dl>
-        <dt>Desenvolvendo a primeira aplicação</dt>
-        <dd>Criando uma aplicação console no Visual Studio</dd>
-        <dd>Instalando o pacote do SQL Server Visual Studio Code</dd>
-        <dd>Instalando o pacote do SQL Server Visual Studio</dd>
-    </dl>
-    <p>
-    <strong>Coceitos Principais</strong>, Por onde começar, O que é Code First, O que é Database First, O que é DbContext.
-    </p>
-    <p>
-    <strong>Cenários de utilização</strong>, Sistemas de pedido, Criação das classes, Criação da classe de contexto, Mapeamento através do Fluent API, Arquivos de configurações, Utilizando DataAnnotations
-    </p>
-    <p>
-    <strong>Migrações</strong>, Introdução, O que é necessário para criar uma migração, Criando a primeira migração, Analisando a migração, Gerando Script SQL, Aplicando migração, Gerando Scripts SQL Idempotentes, Roolbak de migrações, Migrações pendentes.
-    </p>
-    <p>
-    <strong>Operações</strong>, Operações que iremos executar, Inserindo registros, Inserindo registros em massa, Consultando dados, Carregando adiantado, Atualizando registros, Removento registros, 
-    </p>
-    <p>
-    <strong>Bônus</strong>, Detectando propriedades não configuradas, Resiliência da conexão, Alterando o nome da tabela de histórico de migrações.
-    </p>
-    
+    <table>
+    <thead>
+        <th>Introdução ao Entity Framework Core</th>
+    </thead>
+    <tbody>
+        <tr>Introdução</tr>
+        <tr>O que é um ORM?</tr>
+        <tr>Orientação a objetos vs Modelo relacional</tr>
+        <tr>O que é o Entity Framework Core?</tr>
+        <tr>Como funciona o Entity Framework</tr>
+        <tr>História do Entity Framework Core</tr>
+        <tr>Por que o Entity Framework core foi reescrito do zero</tr>
+        <tr>Quais são os providers disponíveis</tr>
+        <tr>EF6 vs EF Core</tr>
+        <tr>Ambiente de desenvolvimento - IDE's</tr>
+        <tr>IDE's disponíveis</tr>
+        <tr>Instalação do SDK do .NET Core</tr>
+        <tr>Instalação das extensões do VS Code</tr>
+        <tr>Instalação do SQL Server LocalBD</tr>
+        <tr>Desenvolvendo a primeira aplicação</tr>
+        <tr>Criando uma aplicação console no Visual Studio</tr>
+        <tr>Instalando o pacote do SQL Server Visual Studio Code</tr>
+        <tr>Instalando o pacote do SQL Server Visual Studio</tr>
+        <tr>Coceitos Principais</tr>
+        <tr>Por onde começar</tr>
+        <tr>O que é Code First</tr>
+        <tr>O que é Database First</tr>
+        <tr>O que é DbContext</tr>
+        <tr>Cenários de utilização</tr>
+        <tr>Sistemas de pedido</tr>
+        <tr>Criação das classes</tr>
+        <tr>Criação da classe de contexto</tr>
+        <tr>Mapeamento através do Fluent API</tr>
+        <tr>Arquivos de configurações</tr>
+        <tr>Utilizando DataAnnotations</tr>
+        <tr>Migrações</tr>
+        <tr>O que é necessário para criar uma migração,</tr>
+        <tr>Criando a primeira migração</tr>
+        <tr>Analisando a migração</tr>
+        <tr>Gerando Script SQL</tr>
+        <tr>Aplicando migração</tr>
+        <tr>Gerando Scripts SQL Idempotentes</tr>
+        <tr>Roolbak de migrações</tr>
+        <tr>Migrações pendentes</tr>
+        <tr>Operações</tr>
+        <tr>Operações que iremos executar</tr>
+        <tr>Inserindo registros</tr>
+        <tr>Inserindo registros em massa</tr>
+        <tr>Consultando dados</tr>
+        <tr>Carregando adiantado</tr>
+        <tr>Atualizando registros</tr>
+        <tr>Removento registros</tr>
+        <tr>Bônus</tr>
+        <tr>Detectando propriedades não configuradas</tr>
+        <tr>Resiliência da conexão</tr>
+        <tr>Alterando o nome da tabela de histórico de migrações</tr>
+    </tbody>
+    </table>
 </details>
 
