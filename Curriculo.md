@@ -146,60 +146,81 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 </details>
 
 <details>
-        <summary><b>BI e Data Warehouse com SQL Server e Power BI</b> <i>[expandir]</i></summary>
-        - <b>Business Intelligence: Introdução à inteligência empresarial</b>
-        - Dados e informação
-        - Problema comuns nas empresas
-        - Matriz dimensão indicador
-        - Tabelas de um Datawarehouse
-        - Hierarquias e tipo de dimensões
-        - O que é OLAP?
-        - Outros tópicos
-        - <b>ETL com integration services: Modelo de dados</b>
-        - Compreendendo o problema
-        - Instalando os produtos
-        - O projeto do Data Warehouse
-        - As dimensões fábrica, cliente e produto
-        - Dimensões organizacional e tempo
-        - As tabelas fato
-        - Carregando dados na dimensão
-        - <b>ETL com integration services: Transformação de dados</b>
-        - Carregando dimensão cliente
-        - Preparando a dimensão produto
-        - A dimensão organizacional
-        - Criando a dimensão tempo
-        - Tabelas de fato
-        - Conclusão
-        - <b>OLAP com SQL Server: Construção do Data Warehouse</b>
-        - Configuração
-        - DW criando as primeiras dimensões
-        - Snow Flake, Tempo e Pai-Filho
-        - Criando os OLAPs
-        - Desnormalizando base de dados
-        - <b>Consultas Multidimensionais: MDX com SQL Server</b>
-        - Configuração
-        - Seleção de elementos
-        - Ordem da exibição de elementos
-        - Cálculos nos Elementos do OLAP
-        - Períodos de Tempo
-        - Trabalhando com dados ordenados
-        - Análise de Pareto ou 80 20 
-        - <b>Report Analysis com Power BI: Gerando relatórios empresariais</b>
-        - Configurando o ambiente
-        - Conceitos, acesso e construção de uma visão simples
-        - Concstruindo relatórios
-        - Hierarquias, mapas e tabelas
-        - Power BI Service
+    <table>
+        <tbody>
+            <tr><td>Business Intelligence: Introdução à inteligência empresarial</td></tr> 
+            <tr><td>Dados e informação </td></tr>
+            <tr><td>Problema comuns nas empresas </td></tr>
+            <tr><td>Matriz dimensão indicador </td></tr>
+            <tr><td>Tabelas de um Datawarehouse </td></tr>
+            <tr><td>Hierarquias e tipo de dimensões </td></tr>
+            <tr><td>O que é OLAP? </td></tr>
+            <tr><td>Outros tópicos </td></tr>
+            <tr><td>ETL com integration services: Modelo de dados </td></tr>
+            <tr><td>Compreendendo o problema </td></tr>
+            <tr><td>Instalando os produtos </td></tr>
+            <tr><td>O projeto do Data Warehouse </td></tr>
+            <tr><td>As dimensões fábrica, cliente e produto </td></tr>
+            <tr><td>Dimensões organizacional e tempo </td></tr>
+            <tr><td>As tabelas fato </td></tr>
+            <tr><td>Carregando dados na dimensão </td></tr>
+            <tr><td>ETL com integration services: Transformação de dados </td></tr>
+            <tr><td>Carregando dimensão cliente </td></tr>
+            <tr><td>Preparando a dimensão produto </td></tr>
+            <tr><td>A dimensão organizacional </td></tr>
+            <tr><td>Criando a dimensão tempo </td></tr>
+            <tr><td>Tabelas de fato </td></tr>
+            <tr><td>Conclusão </td></tr>
+            <tr><td>OLAP com SQL Server: Construção do Data Warehouse </td></tr>
+            <tr><td>Configuração </td></tr>
+            <tr><td>DW criando as primeiras dimensões </td></tr>
+            <tr><td>Snow Flake, Tempo e Pai-Filho </td></tr>
+            <tr><td>Criando os OLAPs </td></tr>
+            <tr><td>Desnormalizando base de dados </td></tr>
+            <tr><td>Consultas Multidimensionais: MDX com SQL Server </td></tr>
+            <tr><td>Configuração </td></tr>
+            <tr><td>Seleção de elementos </td></tr>
+            <tr><td>Ordem da exibição de elementos </td></tr>
+            <tr><td>Cálculos nos Elementos do OLAP </td></tr>
+            <tr><td>Períodos de Tempo </td></tr>
+            <tr><td>Trabalhando com dados ordenados </td></tr>
+            <tr><td>Análise de Pareto ou 80 20 </td></tr>
+            <tr><td>Report Analysis com Power BI: Gerando relatórios empresariais </td></tr>
+            <tr><td>Configurando o ambiente </td></tr>
+            <tr><td>Conceitos, acesso e construção de uma visão simples </td></tr>
+            <tr><td>Concstruindo relatórios </td></tr>
+            <tr><td>Hierarquias, mapas e tabelas </td></tr>
+            <tr><td>Power BI Service</td></tr>
+        </tbody>
+    </table>
 </details>
 
 <details>
     <summary><b>Git e GitHub: Controlando e compartilhando seu código</b></summary>
-    O que é o Git e como instalá-lo, como criar um repositório, analise de status do repositório, entendendo o comando commit, como adicionar arquivos com git add, verificar históricos de commits, ignorando arquivos e/ou pastas com .gitignore, repositórios remotos, adicionando link para o repositório remoto com 'remote add', como baixar um repositório pela primeira vez, clonando-o com o comando git clone, enviando as alterações para um repositório remoto com o comando git push, atualizando o repositório remoto utilizando git pull, o que é para que serve o GitHub, Entendo o que é uma branch, visualizando as alterações realizadas com o comando git diff
+    <table>
+        <tbody>
+            <tr><td>O que é o Git e como instalá-lo</td></tr>
+            <tr><td>Criar um repositório</td></tr>
+            <tr><td>Analise de status do repositório</td></tr>
+            <tr><td>Entendendo o comando commit</td></tr>
+            <tr><td>Como adicionar arquivos com git add</td></tr>
+            <tr><td>Verificar históricos de commits</td></tr>
+            <tr><td>Ignorando arquivos e/ou pastas com .gitignore</td></tr>
+            <tr><td>Repositórios remotos</td></tr>
+            <tr><td>Adicionando link para o repositório remoto com 'remote add'</td></tr>
+            <tr><td>Como baixar um repositório pela primeira vez</td></tr>
+            <tr><td>Clonando-o com o comando git clone</td></tr>
+            <tr><td>Enviando as alterações para um repositório remoto com o comando git push</td></tr>
+            <tr><td>Atualizando o repositório remoto utilizando git pull</td></tr>
+            <tr><td>O que é para que serve o GitHub</td></tr>
+            <tr><td>Entendo o que é uma branch</td></tr>
+            <tr><td>Visualizando as alterações realizadas com o comando git diff</td></tr>        
+        </tbody>
+    </table>
 </details>
 
 <details>
     <summary><b>Git e GitHub: Estratégias de ramificação, Conflitos e Pull Requests</b></summary>
-
     
 </details>
 
