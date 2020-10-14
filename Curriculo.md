@@ -207,7 +207,7 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
     <summary><b>Introdução ao Entity Framework Core</b></summary>
     <table>
         <thead>
-            Introdução ao Entity Framework Core
+            <tcaption>Introdução ao Entity Framework Core</tcaption>
         </thead>
         <tbody>
             <tr><td>Introdução</td></tr>
