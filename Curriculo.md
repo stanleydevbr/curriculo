@@ -206,62 +206,62 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 <details>
     <summary><b>Introdução ao Entity Framework Core</b></summary>
     <table>
-    <thead>
-        <th>Introdução ao Entity Framework Core</th>
-    </thead>
-    <tbody>
-        <tr>Introdução</tr>
-        <tr>O que é um ORM?</tr>
-        <tr>Orientação a objetos vs Modelo relacional</tr>
-        <tr>O que é o Entity Framework Core?</tr>
-        <tr>Como funciona o Entity Framework</tr>
-        <tr>História do Entity Framework Core</tr>
-        <tr>Por que o Entity Framework core foi reescrito do zero</tr>
-        <tr>Quais são os providers disponíveis</tr>
-        <tr>EF6 vs EF Core</tr>
-        <tr>Ambiente de desenvolvimento - IDE's</tr>
-        <tr>IDE's disponíveis</tr>
-        <tr>Instalação do SDK do .NET Core</tr>
-        <tr>Instalação das extensões do VS Code</tr>
-        <tr>Instalação do SQL Server LocalBD</tr>
-        <tr>Desenvolvendo a primeira aplicação</tr>
-        <tr>Criando uma aplicação console no Visual Studio</tr>
-        <tr>Instalando o pacote do SQL Server Visual Studio Code</tr>
-        <tr>Instalando o pacote do SQL Server Visual Studio</tr>
-        <tr>Coceitos Principais</tr>
-        <tr>Por onde começar</tr>
-        <tr>O que é Code First</tr>
-        <tr>O que é Database First</tr>
-        <tr>O que é DbContext</tr>
-        <tr>Cenários de utilização</tr>
-        <tr>Sistemas de pedido</tr>
-        <tr>Criação das classes</tr>
-        <tr>Criação da classe de contexto</tr>
-        <tr>Mapeamento através do Fluent API</tr>
-        <tr>Arquivos de configurações</tr>
-        <tr>Utilizando DataAnnotations</tr>
-        <tr>Migrações</tr>
-        <tr>O que é necessário para criar uma migração,</tr>
-        <tr>Criando a primeira migração</tr>
-        <tr>Analisando a migração</tr>
-        <tr>Gerando Script SQL</tr>
-        <tr>Aplicando migração</tr>
-        <tr>Gerando Scripts SQL Idempotentes</tr>
-        <tr>Roolbak de migrações</tr>
-        <tr>Migrações pendentes</tr>
-        <tr>Operações</tr>
-        <tr>Operações que iremos executar</tr>
-        <tr>Inserindo registros</tr>
-        <tr>Inserindo registros em massa</tr>
-        <tr>Consultando dados</tr>
-        <tr>Carregando adiantado</tr>
-        <tr>Atualizando registros</tr>
-        <tr>Removento registros</tr>
-        <tr>Bônus</tr>
-        <tr>Detectando propriedades não configuradas</tr>
-        <tr>Resiliência da conexão</tr>
-        <tr>Alterando o nome da tabela de histórico de migrações</tr>
-    </tbody>
+        <thead>
+            <th><td>Introdução ao Entity Framework Core</td></th>
+        </thead>
+        <tbody>
+            <tr><td>Introdução</td></tr>
+            <tr><td>O que é um ORM?</td></tr>
+            <tr><td>Orientação a objetos vs Modelo relacional</td></tr>
+            <tr><td>O que é o Entity Framework Core?</td></tr>
+            <tr><td>Como funciona o Entity Framework</td></tr>
+            <tr><td>História do Entity Framework Core</td></tr>
+            <tr><td>Por que o Entity Framework core foi reescrito do zero</td></tr>
+            <tr><td>Quais são os providers disponíveis</td></tr>
+            <tr><td>EF6 vs EF Core</td></tr>
+            <tr><td>Ambiente de desenvolvimento - IDE's</td></tr>
+            <tr><td>IDE's disponíveis</td></tr>
+            <tr><td>Instalação do SDK do .NET Core</td></tr>
+            <tr><td>Instalação das extensões do VS Code</td></tr>
+            <tr><td>Instalação do SQL Server LocalBD</td></tr>
+            <tr><td>Desenvolvendo a primeira aplicação</td></tr>
+            <tr><td>Criando uma aplicação console no Visual Studio</td></tr>
+            <tr><td>Instalando o pacote do SQL Server Visual Studio Code</td></tr>
+            <tr><td>Instalando o pacote do SQL Server Visual Studio</td></tr>
+            <tr><td>Coceitos Principais</td></tr>
+            <tr><td>Por onde começar</td></tr>
+            <tr><td>O que é Code First</td></tr>
+            <tr><td>O que é Database First</td></tr>
+            <tr><td>O que é DbContext</td></tr>
+            <tr><td>Cenários de utilização</td></tr>
+            <tr><td>Sistemas de pedido</td></tr>
+            <tr><td>Criação das classes</td></tr>
+            <tr><td>Criação da classe de contexto</td></tr>
+            <tr><td>Mapeamento através do Fluent API</td></tr>
+            <tr><td>Arquivos de configurações</td></tr>
+            <tr><td>Utilizando DataAnnotations</td></tr>
+            <tr><td>Migrações</td></tr>
+            <tr><td>O que é necessário para criar uma migração,</td></tr>
+            <tr><td>Criando a primeira migração</td></tr>
+            <tr><td>Analisando a migração</td></tr>
+            <tr><td>Gerando Script SQL</td></tr>
+            <tr><td>Aplicando migração</td></tr>
+            <tr><td>Gerando Scripts SQL Idempotentes</td></tr>
+            <tr><td>Roolbak de migrações</td></tr>
+            <tr><td>Migrações pendentes</td></tr>
+            <tr><td>Operações</td></tr>
+            <tr><td>Operações que iremos executar</td></tr>
+            <tr><td>Inserindo registros</td></tr>
+            <tr><td>Inserindo registros em massa</td></tr>
+            <tr><td>Consultando dados</td></tr>
+            <tr><td>Carregando adiantado</td></tr>
+            <tr><td>Atualizando registros</td></tr>
+            <tr><td>Removento registros</td></tr>
+            <tr><td>Bônus</td></tr>
+            <tr><td>Detectando propriedades não configuradas</td></tr>
+            <tr><td>Resiliência da conexão</td></tr>
+            <tr><td>Alterando o nome da tabela de histórico de migrações</td></tr>
+        </tbody>
     </table>
 </details>
 
