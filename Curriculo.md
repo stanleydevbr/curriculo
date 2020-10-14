@@ -205,56 +205,30 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 
 <details>
     <summary><b>Introdução ao Entity Framework Core</b></summary>
-    <table>
-        <thead>
-            <tr>
-                <th>
-                    Emento do curso
-                </th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-               <td>Introdução</td> 
-            </tr>
-            <tr>
-                <td>O que é ORM?</td>
-            </tr>
-            <tr>
-                <td>Orientação a objetos vs Modelo relacional</td>
-            </tr>
-            <tr>
-                <td>O que é o Entity Framework Core?</td>
-            </tr>                        
-            <tr>
-                <td>Como funciona o Entity Framework</td>
-            </tr>                                    
-            <tr>
-                <td>História do Entity Framework Core</td>
-            </tr>                                    
-            <tr>
-                <td>Por que o Entity Framework Core foi reescrito do zero</td>
-            </tr>                                    
-            <tr>
-                <td>Quais são os providers disponíveis</td>
-            </tr>                                    
-            <tr>
-                <td>EF 6 vx EF Core</td>
-            </tr>                                    
-            <tr>
-                <td></td>
-            </tr>                                                            
-        </tbody>
-    </table>
-    <p>
-    O que é um ORM?, Orientação a objetos vs Modelo relacional, O que é o Entity Framework Core?, Como funciona o Entity Framework, História do Entity Framework Core, Por que o Entity Framework Core foi reescrito do zero, Quais são os providers disponíveis, EF 6 vs EF Core 
-    </p>
-    <p>
-    <strong>Ambiente de desenvolvimento - IDE's</strong>, IDE's disponíveis, Instalação do SDK do .NET Core, Instalação das extensões do VS Code, Instalação do SQL Server LocalBD
-    </p>
-    <p>
-    <strong>Desenvolvendo a primeira aplicação</strong>, Criando uma aplicação console no Visual Studio, Instalando o pacote do SQL Server Visual Studio Code, Instalando o pacote do SQL Server Visual Studio.
-    </p>
+    <dl>
+        <dt>Introdução</dt>
+        <dd>O que é um ORM?</dd>
+        <dd>Orientação a objetos vs Modelo relacional</dd>
+        <dd>O que é o Entity Framework Core?</dd>
+        <dd>Como funciona o Entity Framework</dd>
+        <dd>História do Entity Framework Core</dd>
+        <dd>Por que o Entity Framework core foi reescrito do zero</dd>
+        <dd>Quais são os providers disponíveis</dd>
+        <dd>EF6 vs EF Core</dd>
+    </dl>
+    <dl>
+        <dt>Ambiente de desenvolvimento - IDE's</dt>
+        <dd>IDE's disponíveis</dd>
+        <dd>Instalação do SDK do .NET Core</dd>
+        <dd>Instalação das extensões do VS Code</dd>
+        <dd>Instalação do SQL Server LocalBD</dd>
+    </dl>
+    <dl>
+        <dt>Desenvolvendo a primeira aplicação</dt>
+        <dd>Criando uma aplicação console no Visual Studio</dd>
+        <dd>Instalando o pacote do SQL Server Visual Studio Code</dd>
+        <dd>Instalando o pacote do SQL Server Visual Studio</dd>
+    </dl>
     <p>
     <strong>Coceitos Principais</strong>, Por onde começar, O que é Code First, O que é Database First, O que é DbContext.
     </p>
