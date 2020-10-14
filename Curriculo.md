@@ -146,6 +146,7 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 </details>
 
 <details>
+    <summary><b>SQL com Microsoft SQL Server 2017</b></summary>
     <table>
         <tbody>
             <tr><td>Business Intelligence: Introdução à inteligência empresarial</td></tr> 
