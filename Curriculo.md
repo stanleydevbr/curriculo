@@ -168,7 +168,65 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 </details>
 
 <details>
-    <summary><b>SQL com Microsoft SQL Server 2017</b></summary>
+    <summary><b>Front-end</b></summary>
+    <table>
+        <tbody>
+            <tr><td><strong>Gulp: automação de tarefas front-end</strong></td></tr> 
+            <tr><td><strong>React parte 1: Componentes reutilizáveis para sua webapp</strong></td></tr> 
+            <tr><td><strong>React parte 2: Validação, Rotas e Integração com API</strong></td></tr> 
+            <tr><td><strong>SQL Server: T-SQL com Microsoft SQL Server 2017</strong></td></tr> 
+            <tr><td><strong>GraphQL parte 3: integrando com sua aplicação</strong></td></tr> 
+        </tbody>
+    </table>
+</details>
+
+<details>
+    <summary><b>Formação: React JS</b></summary>
+    <table>
+        <tbody>
+            <tr><td><strong>Fetch API: Consumindo uma API Rest com JavaScript</strong></td></tr> 
+            <tr><td><strong>JS na Web: Criando uma SPA com JavaScript puro</strong></td></tr> 
+            <tr><td><strong>JavaScript: Programando a Orientação a Objetos</strong></td></tr> 
+            <tr><td><strong>JavaScript: Interfaces e Herança em Orientação a Objetos</strong></td></tr> 
+            <tr><td><strong>React: Entendendo como a biblioteca funciona</strong></td></tr> 
+            <tr><td><strong>React: Ciclo de vida dos componentes</strong></td></tr> 
+            <tr><td><strong>React:Function Components, uma abordagem moderna</strong></td></tr> 
+            <tr><td><strong>React: Hooks, Contextos e boas práticas</strong></td></tr> 
+        </tbody>
+    </table>
+</details>
+
+<details>
+    <summary><b>Formação: Node.JS</b></summary>
+    <table>
+        <tbody>
+            <tr><td><strong>Performance Web I: otimizando o front-end</strong></td></tr> 
+            <tr><td><strong>Performance Web II: Critical Path, HTTP/2 e Resource Hints</strong></td></tr> 
+            <tr><td><strong>HTTP: Entendendo a web por baixo dos panos</strong></td></tr> 
+            <tr><td><strong>Node.js Parte 1: Inovando com JavaScript no backend</strong></td></tr> 
+            <tr><td><strong>Node.js Parte 2: MVC, autenticação e autorização</strong></td></tr> 
+            <tr><td><strong>GraphQL Parte 1: Primeiros Passos</strong></td></tr> 
+            <tr><td><strong>GraphQL parte 2: Substituindo uma API REST por GraphQL</strong></td></tr> 
+            <tr><td><strong>Rest com NodeJS: API com Express e MySQL</strong></td></tr> 
+        </tbody>
+    </table>
+</details>
+
+<details>
+    <summary><b>Formação: SQL com Microsoft SQL Server 2017</b></summary>
+    <table>
+        <tbody>
+            <tr><td><strong>SQL Server: Introdução ao SQL com Microsoft SQL Server 2017</strong></td></tr> 
+            <tr><td><strong>SQL Server: Consultas avançadas com Microsoft SQL Server 2017</strong></td></tr> 
+            <tr><td><strong>SQL Server: Manipulação de dados com Microsoft SQL Server 2017</strong></td></tr> 
+            <tr><td><strong>SQL Server: T-SQL com Microsoft SQL Server 2017</strong></td></tr> 
+            <tr><td><strong>SQL Server: Administração do Microsoft SQL Server 2017</strong></td></tr> 
+        </tbody>
+    </table>
+</details>
+
+<details>
+    <summary><b>Formação Power BI</b></summary>
     <table>
         <tbody>
             <tr><td><strong>Business Intelligence: Introdução à inteligência empresarial</strong></td></tr> 
