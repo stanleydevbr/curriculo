@@ -302,7 +302,34 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 
 <details>
     <summary><b>Git e GitHub: Estratégias de ramificação, Conflitos e Pull Requests</b></summary>
-    
+    <table>
+        <tbody>
+            <tr><td>O que são e como utilizar <strong>issues</strong></td></tr>
+            <tr><td>Que as issues podem ser utilizadas para vários propósitos
+            <ul>
+                <li>Reportar problemas</li>
+                <li>Sugerir melhorias</li>
+                <li>Solicitar novas funcionalidades</li>
+                <li>Organizar qualquer coisa que faça sentido para o projeto</li>
+                <li>e outros</li>
+            </ul>
+            </td></tr>
+            <tr><td>O que são <strong>pull requests</strong></td></tr>
+            <tr><td>Como unir vários commits em um, utilizando o comando `git rebase -i`</td></tr>
+            <tr><td>Como enviar e como revisar um pull request no GitHub</td></tr>
+            <tr><td>
+                Controle avançado de conflitos
+                <ul>
+                    <li>Que o comando git cherry-pick pode trazer um commit específico para a branch atual</li>
+                    <li>Como encontrar o commit em que determinada alteração foi aplicada, utilizando o git bisect</li>
+                    <li>Como encontrar o responsável por determinanda linha ou bloco de código, utilizando o git blame</li>
+                    <li>Que jamais devemos apontar um culpado por determinado bug. Uma equipe deve ser unida e se ajudar</li>
+                    <li>Que o comando git show {hash] mostra todas as alterações aplicadas pelo commit com o hash informado.</li>
+                </ul>
+            </td></tr>
+            <tr><td></td></tr>
+        </tbody>
+    </table>    
 </details>
 
 <details>
