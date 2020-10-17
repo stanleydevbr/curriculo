@@ -13,7 +13,7 @@
 Olá, sou bacharel em sistemas de informação, desenvolvedor, amante de tecnologia e apaixonado por conhecimento. Sou bastante curioso e entusiasta de novas tecnologias, busco sempre estar atualizado com as tendências de mercado.
 
 # Objetivo
-Promover o crescimento de minha carreira profissional, apreender o mais rápido possível todas as atribuições do cargo para poder mostrar resultados.
+Promover o crescimento de minha carreira profissional, apreender o mais rápido possível todas as atribuições de um cargo para poder mostrar resultados.
 
 # :mortar_board: Educação
 ### SISTEMAS DE INFORMAÇÃO
@@ -26,8 +26,8 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 * Conhecimentos em arquitetura de software:
 
     <img src="https://img.shields.io/badge/%20-OOP-green"/>
-    <img src="https://img.shields.io/badge/%20-SOLID-blue"/>
     <img src="https://img.shields.io/badge/-Clean%20Code-lightgrey"/>
+    <img src="https://img.shields.io/badge/%20-SOLID-blue"/>
     <img src="https://img.shields.io/badge/%20-Design%20Patterns-orange"/>
     <img src="https://img.shields.io/badge/%20-DDD-yellowgreen"/>
     <img src="https://img.shields.io/badge/%20-CQRS-blue"/>
@@ -302,6 +302,34 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 
 <details>
     <summary><b>Git e GitHub: Estratégias de ramificação, Conflitos e Pull Requests</b></summary>
+    <table>
+        <tbody>
+            <tr><td>O que são e como utilizar <strong>issues</strong></td></tr>
+            <tr><td>Que as issues podem ser utilizadas para vários propósitos
+            <ul>
+                <li>Reportar problemas</li>
+                <li>Sugerir melhorias</li>
+                <li>Solicitar novas funcionalidades</li>
+                <li>Organizar qualquer coisa que faça sentido para o projeto</li>
+                <li>e outros</li>
+            </ul>
+            </td></tr>
+            <tr><td>O que são <strong>pull requests</strong></td></tr>
+            <tr><td>Como unir vários commits em um, utilizando o comando `git rebase -i`</td></tr>
+            <tr><td>Como enviar e como revisar um pull request no GitHub</td></tr>
+            <tr><td>
+                Controle avançado de conflitos
+                <ul>
+                    <li>Que o comando git cherry-pick pode trazer um commit específico para a branch atual</li>
+                    <li>Como encontrar o commit em que determinada alteração foi aplicada, utilizando o git bisect</li>
+                    <li>Como encontrar o responsável por determinanda linha ou bloco de código, utilizando o git blame</li>
+                    <li>Que jamais devemos apontar um culpado por determinado bug. Uma equipe deve ser unida e se ajudar</li>
+                    <li>Que o comando git show {hash] mostra todas as alterações aplicadas pelo commit com o hash informado.</li>
+                </ul>
+            </td></tr>
+            <tr><td></td></tr>
+        </tbody>
+    </table>
     
 </details>
 
