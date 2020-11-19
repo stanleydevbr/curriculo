@@ -74,7 +74,7 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
     <summary><b>MCSD - App Builder - Certified 2020</b></summary>
         <table>
             <tr><td><a href="https://www.youracclaim.com/badges/9ea715fb-7ca6-41ad-aa98-588a4133c1a5/linked_in_profile">Verificar</a></td></tr>
-            <tr><td><img src="imagens/MSCD.png" width = "250px"></td></tr>
+            <tr><td><img src="imagens/MCSD.png" width = "250px"></td></tr>
         </table>       
 </details>
 
@@ -82,7 +82,7 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
     <summary><b>MCSA – App Web – Certified 2019</b></summary>
         <table>
             <tr><td><a href="https://www.youracclaim.com/badges/a04d7fa8-4da3-41b7-97f9-48379b81339d/linked_in_profile">Verificar</a></td></tr>
-            <tr><td><img src="imagens/MSCA-Web.png" width = "250px"></td></tr>
+            <tr><td><img src="imagens/MCSA-Web.png" width = "250px"></td></tr>
         </table>       
 </details>
 
