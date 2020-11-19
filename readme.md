@@ -66,11 +66,56 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 #### VMSET SISTEMAS DE INFORMÁTICA LTDA ME
 * Período: `05-2010` a `08-2010`
 
-
 # Especializações
+* Engenharia de Software - Incompleto
 
 # ⭐Certificações
-* 
+<details>
+    <summary><b>MCSD - App Builder - Certified 2020</b></summary>
+        <table>
+            <tr><td>https://www.youracclaim.com/badges/9ea715fb-7ca6-41ad-aa98-588a4133c1a5/linked_in_profile</td></tr>
+            <tr><td><img src="images/MSCD.png" width = "250px"></td></tr>
+        </table>       
+</details>
+<details>
+    <summary><b>MCSA – App Web – Certified 2019</b></summary>
+        <table>
+            <tr><td>https://www.youracclaim.com/badges/a04d7fa8-4da3-41b7-97f9-48379b81339d/linked_in_profile</td></tr>
+            <tr><td><img src="images/MSCA-Web.png" width = "250px"></td></tr>
+        </table>       
+</details>
+<details>
+    <summary><b>Exam 762: Developing SQL Databases</b></summary>
+        <table>
+            <tr><td>https://www.youracclaim.com/badges/3f3634c0-d0de-4bd7-a092-10fed5fa77ef?source=linked_in_profile</td></tr>
+            <tr><td><img src="images/70-762.png" width = "250px"></td></tr>
+        </table>       
+</details>
+
+<details>
+    <summary><b>Exam 487: Developing Microsoft Azure and Web Services</b></summary>
+        <table>
+            <tr><td>https://www.youracclaim.com/badges/fc708740-03c3-4c77-8f65-daf7d873e816</td></tr>
+            <tr><td><img src="images/70-487.png" width = "250px"></td></tr>
+        </table>       
+</details>
+
+<details>
+    <summary><b>Exam 486: Developing ASP.NET MVC Web Applications</b></summary>
+        <table>
+            <tr><td>https://www.youracclaim.com/badges/3080933a-2efa-4324-aa62-b3514d48a706</td></tr>
+            <tr><td><img src="images/70-486.png" width = "250px"></td></tr>
+        </table>       
+</details>
+
+<details>
+    <summary><b>Exam 483: Programming in C#</b></summary>
+        <table>
+            <tr><td>https://www.youracclaim.com/badges/12f84070-acee-482d-8cd2-a41d742243e3</td></tr>
+            <tr><td><img src="images/70-483.png" width = "250px"></td></tr>
+        </table>       
+</details>
+
 # 🏷️Cursos
 <details>
     <summary><b>Formação C# Programming </b> </summary>
