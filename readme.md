@@ -34,7 +34,7 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
     <img src="https://img.shields.io/badge/%20-TDD-lightgrey"/>
     <img src="https://img.shields.io/badge/%20-BDD-brightgreen"/>
 * Conhecedor das metologias e processos de desenvolvimentos ageis e experiência como <img src="https://img.shields.io/badge/SCRUM-MASTER-blue"/>;
-* Liguagens de programação:
+* Linguagens de programação:
 
     <img src="https://img.shields.io/badge/%20-C%23-green"/>
     <img src="https://img.shields.io/badge/%20-Delphi-lightgrey"/>
