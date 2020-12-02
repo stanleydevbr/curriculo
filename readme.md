@@ -13,7 +13,7 @@
 Olá, sou bacharel em sistemas de informação, desenvolvedor, amante de tecnologia e apaixonado por conhecimento. Sou bastante curioso e entusiasta de novas tecnologias, busco sempre estar atualizado com as tendências de mercado.
 
 # Objetivo
-Promover o crescimento de minha carreira profissional, apreender o mais rápido possível todas as atribuições do cargo para poder mostrar resultados.
+Promover o crescimento de minha carreira profissional, aprender o mais rápido possível todas as atribuições do cargo para poder mostrar resultados.
 
 # :mortar_board: Educação
 ### SISTEMAS DE INFORMAÇÃO
@@ -22,7 +22,7 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
 
 # 👨‍💻Principais Habilidades
 * Desenvolvedor com vasta experiência em práticas de programação, análise e interpretação de requisitos de software com mais de 10 anos de mercado;
-* Experiência em desenvolvimento e manuteções de aplicações `ERP`;
+* Experiência em desenvolvimento e manutenções de aplicações `ERP`;
 * Conhecimentos em arquitetura de software:
 
     <img src="https://img.shields.io/badge/%20-OOP-green"/>
@@ -33,7 +33,7 @@ Promover o crescimento de minha carreira profissional, apreender o mais rápido 
     <img src="https://img.shields.io/badge/%20-CQRS-blue"/>
     <img src="https://img.shields.io/badge/%20-TDD-lightgrey"/>
     <img src="https://img.shields.io/badge/%20-BDD-brightgreen"/>
-* Conhecedor das metologias e processos de desenvolvimentos ageis e experiência como <img src="https://img.shields.io/badge/SCRUM-MASTER-blue"/>;
+* Conhecedor das metodologias e processos de desenvolvimentos agéis e experiência como <img src="https://img.shields.io/badge/SCRUM-MASTER-blue"/>;
 * Linguagens de programação:
 
     <img src="https://img.shields.io/badge/%20-C%23-green"/>
