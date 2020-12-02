@@ -1,6 +1,6 @@
 # Dados Pessoais
 ## Stanley Dias Paulo 
-* :triangular_flag_on_post: Rua 509 Quadra 11 Lote 12, Jardim Monte Serrat, Aparecida de Goiânia - GO
+* :triangular_flag_on_post: Rua 509 Quadra 11 Lote 13, Jardim Monte Serrat, Aparecida de Goiânia - GO
 * :iphone: `(62) 99134-1448`
 * :email: `stanleydiaspaulo@gmail.com`
 * :family: `Esposa` e `Filho`
@@ -10,7 +10,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stanleydiaspaulo@gmail.com)](mailto:stanleydiaspaulo@gmail.com)
 
 # Perfil
-Olá, sou bacharel em sistemas de informação, desenvolvedor, amante de tecnologia e apaixonado por conhecimento. Sou bastante curioso e entusiasta de novas tecnologias, busco sempre estar atualizado com as tendências de mercado.
+Olá, sou bacharel em Sistemas de Informação, desenvolvedor, amante de tecnologia e apaixonado por conhecimento. Sou bastante curioso e entusiasta de novas tecnologias, busco sempre estar atualizado com as tendências de mercado.
 
 # Objetivo
 Promover o crescimento de minha carreira profissional, aprender o mais rápido possível todas as atribuições do cargo para poder mostrar resultados.
